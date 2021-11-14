@@ -2,7 +2,7 @@
 
 > I love all things circular economy, sustainability, and natural.  
 > 
-> I have an artists eye and an engineers heart for efficiency - sometimes they don't work well together.
+> I have an artists eye and an engineers desire for efficiency.
 > 
 > Graduate of [Eleven Fifty Academy's](https://elevenfifty.org/) Web Development Bootcamp.
 
