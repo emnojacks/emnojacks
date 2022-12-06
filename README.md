@@ -1,7 +1,8 @@
 ## I'm Em J
 
-> I work in the zero waste field.
-> 
+> I work in the zero waste field. 
+> Interested in waste tracking and low carbon web design.
+>
 > I have an artists eye with an engineers obsession for efficiency.
 > 
 > Graduate of [Eleven Fifty Academy's](https://elevenfifty.org/) Web Development Bootcamp - 2021
