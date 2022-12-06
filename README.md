@@ -1,10 +1,11 @@
-## Hi, I'm Em J
+## I'm Em J
 
 > I work in the zero waste field.
 > 
 > I have an artists eye with an engineers obsession for efficiency.
 > 
 > Graduate of [Eleven Fifty Academy's](https://elevenfifty.org/) Web Development Bootcamp - 2021
+> 
 > Graduate of [SheCodes](https://shecodes.io/) Coding Bootcamp for women - 2022
 
 ### Portfolio
