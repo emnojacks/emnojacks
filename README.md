@@ -13,7 +13,7 @@
 > Collection of [recent web dev projects](https://emnojacks.github.io/portfolio/)
 
 ### Company Website
-> Consulting and project management via [INcircled](https://incircled.org)
+> [Foodprint](https://www.foodprintgroup.com/)
 
 ### Social 
 > Linkedin [profile](https://www.linkedin.com/in/emily-jackson-86357551/)
